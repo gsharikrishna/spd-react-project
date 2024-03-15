@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Been feeling perfectly well and in good health?"
+
+    },
+    {
+        "id":2,
+        "title":"Been feeling in need of a good tonic?"
+    },
+    {
+        "id":3,
+        "title":"Been feeling run down and out of sorts?"
+    },
+    {
+        "id":4,
+        "title":"Been getting any pains in your head?"
+    },
+    {
+        "id":5,
+        "title":"Been getting a feeling of tightness or pressure in your head?"
+    },
+    {
+        "id":6,
+        "title":"Been having hot or cold spells?"
+    },
+    {
+        "id":7,
+        "title":"Lost much sleep over worry?"
+    },
+    {
+        "id":8,
+        "title":"Had difficulty in staying asleep once you are off?"
+    },
+    {
+        "id":9,
+        "title":" Felt constantly under strain?"
+    },
+    {
+        "id":10,
+        "title":"Been getting edgy and bad-tempered?"
+    }
+
+]

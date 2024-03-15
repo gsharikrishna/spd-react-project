@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.sections{
+    
+    /* background-color: mediumspringgreen; */
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+}
+
+.cardss {
+    width: 250px;
+    padding: 20px;
+  }
+  .cardss:hover {
+    box-shadow: 0 10px 10px 10px rbga(0, 0, 0, 0.1);
+    cursor: pointer;
+  }
+  .image_box img {
+    width: 150px;
+    height: 200px;
+  }
+  
+  .image_box img {
+    width: 250px;
+    height: 250px;
+  }
+  .details p:nth-child(1) {
+    font-weight: bold;
+  }
+  .details p:nth-child(2) {
+    color: grey;
+    font-size: 0.8rem;
+  }
+  .details p:nth-child(3) {
+    font-weight: bolx;
+    color: grey;
+  }
+  .details button {
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    background-color: skyblue;
+    outline: none;
+    cursor: pointer;
+  }
+  .settheborders{
+    border: 5px solid burlywood;
+    margin-bottom: 20px;
+    width: 80%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .mycartlist{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: blueviolet;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+  .imageclass{
+     
+    margin-left: 5px;
+    
+  }
+  .titletext{
+    font-style: oblique;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+
+  }
+  .buttoninc{
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+     margin-right: 10px;
+     color: white;
+     background-color: darkturquoise;
+  font-size: 30px;
+  cursor: pointer;
+    border: 1px solid yellowgreen;
+  }
+  .amountbutton{
+    width: 110px;
+
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+
+  }
+  .removebutton{
+    margin-right: 20px;
+    border: 1px sold thistle;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .amountdisplay{
+    font-size: 30px;
+    border: 1px solid yellowgreen;
+    background-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .Searchstring{
+    margin-top:10px ;
+    left: 33%;
+   position: relative;
+   width: 30%;
+   height: 5vh;
+   color: black;
+   background-color: yellow;
+   outline: none;
+   border-radius: 10px;
+  }

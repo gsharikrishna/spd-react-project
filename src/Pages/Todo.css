@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cardtodo{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 5px solid orange;
+    width: 50%;
+    height: 60%;
+    
+}
+.inputfield{
+    width: 50%;
+   height: 10vh;
+   font-size: 30px;
+    color: darkseagreen;
+    margin-bottom: 20px;
+}
+.card-title{
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.buttontodo{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.todolistreact{
+    background-color: aqua;
+    margin: 20px;
+    border: 2px solid slateblue ;
+    width: 50%;
+    height: 100%;
+}
+.todolistreact h5{
+    margin-left: 50px;
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.todolistreact button{
+    color: white;
+  position: absolute;
+  left: 55%;
+cursor: pointer;
+}
+.todolistreacth1{
+    margin-bottom: 20px;
+}
+.todolistreactbutton{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}

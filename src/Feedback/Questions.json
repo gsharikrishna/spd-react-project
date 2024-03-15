@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "title":"How can we make the about page better?",
+        "options":["By adding more css","By adding more images","By adding more text","none"],
+        "answer":"A"
+    },
+    {
+        "id":2,
+        "title":"Where did you first hear about us?",
+        "options":["yes","No","somewhere else","none"],
+        "answer":"A"
+    },
+    {
+        "id":3,
+        "title":"Why are you looking for [product or service] today?",
+        "options":["Vegetables","fruits","rices","none"],
+        "answer":"A"
+        
+    },
+    {
+        "id":4,
+        "title":" Is the desing is good ?",
+        "options":["Good","Make some changes","nice","bad"],
+        "answer":"A"
+    },
+    {
+        "id":5,
+        "title":"What are your main concerns or questions about [product or service]?",
+        "options":["Add more products","Add more details about the product","Add frictionable prices","none"],
+        "answer":"A"
+    },
+    {
+        "id":6,
+        "title":" Have you ever used the Todo application?",
+        "options":["yes","no","sometimes","none"],
+        "answer":"A"
+    },
+    {
+        "id":7,
+        "title":"Is login and the singup buttons are working properly?",
+        "options":["yes","no","never used","none"],
+        "answer":"A"
+    }
+]

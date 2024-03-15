@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name":"apple",
+        "amount":55,
+        "image":"https://media.istockphoto.com/photos/wooden-crates-full-of-red-ripe-apples-after-harvest-picture-id1281699679?b=1&k=20&m=1281699679&s=612x612&w=0&h=yqis4lKwGYiLhZG-1i4pPGiezXj4iI4IbMh978bZrJI="
+    },
+    {
+        "id":2,
+        "name":"banana",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=400"
+
+    },
+    {
+        "id":3,
+        "name":"orange",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg?auto=compress&cs=tinysrgb&w=400"
+
+    },
+    {
+        "id":4,
+        "name":"watermelon",
+        "amount":35,
+        "image":"https://media.istockphoto.com/photos/watermelon-picture-id1367468454?b=1&k=20&m=1367468454&s=612x612&w=0&h=nFWZTH_LAIn36tjpEn7uMcBpStQcXnuoUn7yVlCbJ8s="
+
+    },
+    {
+        "id":5,
+        "name":"mango",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&cs=tinysrgb&w=400"
+
+    },
+    {
+        "id":6,
+        "name":"Pineapple",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/947879/pexels-photo-947879.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id":7,
+        "name":"strawberry",
+        "amount":55,
+        "image":"https://media.istockphoto.com/photos/fresh-strawberries-background-picture-id477834644?b=1&k=20&m=477834644&s=612x612&w=0&h=SPhe76aFFsXHKW7q_3qXANy8fb5yjxlimU8AeaOPFB4="
+    },
+    {
+        "id":8,
+        "name":"promegranate",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/65256/pomegranate-open-cores-fruit-fruit-logistica-65256.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+    },
+    {
+        "id":9,
+        "name":"guava",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/5945840/pexels-photo-5945840.jpeg?auto=compress&cs=tinysrgb&w=400"
+
+    },
+    {
+        "id":10,
+        "name":"papaya",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/286948/pexels-photo-286948.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+    },
+    {
+        "id":11,
+        "name":"kiwi",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/54370/pexels-photo-54370.jpeg?auto=compress&cs=tinysrgb&w=400"
+
+    },
+    {
+        "id":12,
+        "name":"sapota",
+        "amount":35,
+        "image":"https://images.pexels.com/photos/849685/pexels-photo-849685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+
+
+]
